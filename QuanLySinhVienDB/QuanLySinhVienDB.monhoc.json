@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "69df9ee836df837b00ff12f8"
+  },
+  "maMH": "IT001",
+  "tenMH": "Cấu trúc dữ liệu",
+  "soTinChi": 4
+},
+{
+  "_id": {
+    "$oid": "69df9ee836df837b00ff12f9"
+  },
+  "maMH": "IT002",
+  "tenMH": "Kiến trúc phần mềm",
+  "soTinChi": 3
+}]
