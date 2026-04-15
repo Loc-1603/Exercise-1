@@ -136,7 +136,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DangKyService.cs" />
+    <Compile Include="IDangKyService.cs" />
+    <Compile Include="IMonHocService.cs" />
+    <Compile Include="ISinhVienService.cs" />
+    <Compile Include="MonHocService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SinhVienService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
