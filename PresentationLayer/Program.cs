@@ -112,7 +112,7 @@ class Program
         Console.Write($"Xác nhận xóa sinh viên '{sv.HoTen}'? (y/n): ");
         if (Console.ReadLine()?.ToLower() == "y")
         {
-            bool result = svService.XoaSinhVien(sv.Id!);
+            bool result = svService.XoaSinhVien(sv.Id);
             if (result) Console.WriteLine("✅ Xóa thành công!");
         }
     }
@@ -206,7 +206,7 @@ class Program
     static void XemDangKy()
     {
         Console.Write("\nNhập Mã SV: "); string maSV = Console.ReadLine() ?? "";
-        var list = dkService.LayDangKyTheoSinhVien(maSV);
+        var list = dkService.LayDangKyTheоSinhVien(maSV);
 
         Console.WriteLine($"\n📋 Danh sách đăng ký của SV {maSV}:");
         Console.WriteLine(new string('-', 50));
