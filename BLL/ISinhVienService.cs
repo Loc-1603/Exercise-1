@@ -12,3 +12,4 @@ namespace BLL
         bool XoaSinhVien(string id);
     }
 }
+﻿
