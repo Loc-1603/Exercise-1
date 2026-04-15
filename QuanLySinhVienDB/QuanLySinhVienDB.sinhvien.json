@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "69df9dde610d31576a2d7909"
+  },
+  "maSV": "31231027546",
+  "hoTen": "Hồ Xuân Lộc",
+  "email": "hoxuantailoc12345@gmail.com",
+  "ngaySinh": {
+    "$date": "2005-03-15T17:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69df9ed636df837b00ff12f5"
+  },
+  "maSV": "SV001",
+  "hoTen": "Nguyễn Văn Lộc",
+  "email": "loc@ueh.edu.vn",
+  "ngaySinh": "2002-10-15T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "69df9ed636df837b00ff12f6"
+  },
+  "maSV": "SV002",
+  "hoTen": "Trần Thị B",
+  "email": "tranb@gmail.com",
+  "ngaySinh": "2003-05-20T00:00:00Z"
+}]

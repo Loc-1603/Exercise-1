@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "69df9f3a36df837b00ff12fb"
+  },
+  "maSV": "SV001",
+  "maMH": "IT001",
+  "ngayDangKy": "2026-04-10T08:30:00Z",
+  "diem": 8.5
+},
+{
+  "_id": {
+    "$oid": "69df9f3a36df837b00ff12fc"
+  },
+  "maSV": "SV001",
+  "maMH": "IT002",
+  "ngayDangKy": "2026-04-11T09:00:00Z",
+  "diem": null
+},
+{
+  "_id": {
+    "$oid": "69df9f3a36df837b00ff12fd"
+  },
+  "maSV": "SV002",
+  "maMH": "IT001",
+  "ngayDangKy": "2026-04-12T10:15:00Z",
+  "diem": 7
+}]
